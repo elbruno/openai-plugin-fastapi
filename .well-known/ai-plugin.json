@@ -1,9 +1,9 @@
 {
   "schema_version": "v1",
-  "name_for_model": "contosoproducts",
-  "name_for_human": "Contoso Product Search",
-  "description_for_model": "Plugin for searching through Contoso's outdoor and recreational products. Use it whenever a user asks about products or activities related to camping, hiking, climbing or camping.",
-  "description_for_human": "Search through Contoso's wide range of outdoor and recreational products.",
+  "name_for_model": "elbrunopets",
+  "name_for_human": "El Bruno Pet Search",
+  "description_for_model": "Plugin for searching through El Bruno's pets. Use it whenever a user asks about pets or pets' activities related to camping, hiking, climbing or camping.",
+  "description_for_human": "Search through El Bruno's wide range of pets.",
   "auth": {
     "type": "none"
   },
